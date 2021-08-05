@@ -1,0 +1,42 @@
+Dear Mr.Jane,
+
+Thank you for letting us know about your recent experience with our bottle. 
+I apologize if our product did not meet your expectations, and appreciate you taking time to share your concerns.
+
+Our goal is to provide a consistently reliable product and an exemplary level of customer service. 
+Based on the events you describe, we did not meet this goal. we will replace the bottle if it is under warranty.
+Your comments regarding bottle will be used for better quality of the product.
+
+Thank & regards,
+XYZ,
+Customer Care Associate.
+
+
+ 
+
+Hi,
+I appreciate you letting me know about your account status. We strive to ensure every customer is satisfied with our services, and I
+apologize for any way in which we may have inconvenienced you. 
+I gone through your account details and found that your credit card information was not entered correctly. I am requesting you to
+enter the correct card details and it will resume your account back. If you want any more information on that reach out to us.
+
+
+Hi,
+
+Thank you for taking time out of your busy schedule to write us and express your grievances on our products and services.
+
+
+our greatest desire is to ensure our customers are satisfied at all levels and find the most suitable way to fix their problems without delay.
+I am sorry to inform you that your issue belogns to another engineering team, will escalate your request to that particular team.
+They will resolve your issue on time. I am requesting you to kindly bare with us.
+
+
+
+Hello Mr.John Smith,
+Thanks for your email to notify us of the difficulties you have been experiencing with our services.
+
+We are very sorry for such destabilizing encounters you have been faced with.  One of our strengths is the way we respond to our customers promptly.
+ Therefore, your recent experience is unjustifiable. I have discussed with our technical department and they are suggesting you to Check the target server setting: 
+Settings > Resources >Session>Session timeout make sure it's long enough. Also check the From server setting: 
+Settings > Resources >Outbound HTTP Settings timeout, try to increase it. In case of any difficulty or information reach out to us.
+
